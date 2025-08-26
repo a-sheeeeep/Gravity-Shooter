@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Shooter2/Content/World.umap",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Shooter2/Content/BluePrints/BP_Player.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Shooter2/Content/BluePrints/GM_Gamemode.uasset",
 				"C:/Users/gusje/Github/UE5/Shooter/Shooter2/Content/World.umap"
 			]
 		}
