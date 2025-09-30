@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/cleanup_attempt/Content/Map/GreyBox.umap",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/cleanup_attempt/Content/Player/BlooPrints/Player.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/cleanup_attempt/Content/Player/BlooPrints/Gamemode_Player.uasset"
+			]
+		}
+	]
+}
