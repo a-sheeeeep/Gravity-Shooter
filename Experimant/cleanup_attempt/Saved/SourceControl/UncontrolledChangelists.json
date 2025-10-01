@@ -7,7 +7,16 @@
 			"files": [
 				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/cleanup_attempt/Content/Map/GreyBox.umap",
 				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/cleanup_attempt/Content/Player/BlooPrints/Player.uasset",
-				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/cleanup_attempt/Content/Player/BlooPrints/Gamemode_Player.uasset"
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/cleanup_attempt/Content/Player/BlooPrints/Gamemode_Player.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/cleanup_attempt/Content/Player/Blender/Glow.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/cleanup_attempt/Content/Player/Blender/Body.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/cleanup_attempt/Content/Player/Blender/Animations/BORUS_ANIMATION.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/cleanup_attempt/Content/Player/Blender/Animations/Borus_Blend.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/cleanup_attempt/Content/Player/Blender/Back_Plate.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/cleanup_attempt/Content/Player/Blender/BorusModel.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/cleanup_attempt/Content/Player/Blender/Animations/BorusModel_Idle.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/cleanup_attempt/Content/Player/Blender/BorusModel_Skeleton.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/cleanup_attempt/Content/Player/Blender/Animations/BorusModel_Walk.uasset"
 			]
 		}
 	]
