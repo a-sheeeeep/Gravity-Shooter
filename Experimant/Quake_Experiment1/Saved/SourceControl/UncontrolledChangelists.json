@@ -7,7 +7,10 @@
 			"files": [
 				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/Quake_Experiment1/Content/World/Greybox.umap",
 				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/Quake_Experiment1/Content/Player/Blueprints/Player.uasset",
-				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/Quake_Experiment1/Content/Player/Blueprints/Player_Gamemode.uasset"
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/Quake_Experiment1/Content/Player/Blueprints/Player_Gamemode.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/Quake_Experiment1/Content/World/UI.umap",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/Quake_Experiment1/Content/World/mainMenu.umap",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/Quake_Experiment1/Content/World/UI/MP_MainMenu.uasset"
 			]
 		}
 	]
