@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/Quake_Experiment1/Content/World/Greybox.umap",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/Quake_Experiment1/Content/Player/Blueprints/Player.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/Quake_Experiment1/Content/Player/Blueprints/Player_Gamemode.uasset"
+			]
+		}
+	]
+}
