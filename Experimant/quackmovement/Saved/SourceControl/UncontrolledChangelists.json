@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/quackmovement/Content/World/World.umap",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/quackmovement/Content/Textures/Ground.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/quackmovement/Content/Player/BP_Player.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/quackmovement/Content/Player/BP_GameMode.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/quackmovement/Content/Textures/Texture_files/Ground/ground/Ground037.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/quackmovement/Content/Textures/Texture_files/Ground/ground/Ground037_2K-JPG_AmbientOcclusion.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/quackmovement/Content/Textures/Texture_files/Ground/ground/Ground037_2K-JPG_Color.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/quackmovement/Content/Textures/Texture_files/Ground/ground/Ground037_2K-JPG_Color_jpg.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/quackmovement/Content/Textures/Texture_files/Ground/ground/Ground037_2K-JPG_Displacement.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/quackmovement/Content/Textures/Texture_files/Ground/ground/Ground037_2K-JPG_Displacement_jpg.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/quackmovement/Content/Textures/Texture_files/Ground/ground/Ground037_2K-JPG_NormalDX.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/quackmovement/Content/Textures/Texture_files/Ground/ground/Ground037_2K-JPG_NormalGL.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/quackmovement/Content/Textures/Texture_files/Ground/ground/Ground037_2K-JPG_NormalGL_jpg.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/quackmovement/Content/Textures/Texture_files/Ground/ground/Ground037_2K-JPG_Roughness.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/quackmovement/Content/Textures/Texture_files/Ground/ground/Ground037_2K-JPG_Roughness_jpg.uasset",
+				"C:/Users/gusje/Github/UE5/Shooter/Gravity-Shooter/Experimant/quackmovement/Content/Textures/Texture_files/Ground/ground/Ground037_2K_JPG.uasset"
+			]
+		}
+	]
+}
